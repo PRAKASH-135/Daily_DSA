@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
