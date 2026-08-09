@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0520-detect-capital) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRAKASH-135/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
