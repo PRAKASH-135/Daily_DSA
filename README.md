@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRAKASH-135/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
