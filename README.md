@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0520-detect-capital) |
+| [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRAKASH-135/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
