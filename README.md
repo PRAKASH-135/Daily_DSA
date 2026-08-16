@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
