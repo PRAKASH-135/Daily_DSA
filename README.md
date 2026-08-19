@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
