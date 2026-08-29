@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
