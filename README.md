@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
