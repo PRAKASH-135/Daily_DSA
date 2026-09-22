@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0035-search-insert-position) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0283-move-zeroes) |
