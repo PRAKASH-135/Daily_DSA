@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0013-roman-to-integer) |
 | [0520-detect-capital](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRAKASH-135/Daily_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
