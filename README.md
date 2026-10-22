@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0303-range-sum-query-immutable) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
