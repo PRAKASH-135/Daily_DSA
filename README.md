@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/PRAKASH-135/Daily_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-135/Daily_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PRAKASH-135/Daily_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
